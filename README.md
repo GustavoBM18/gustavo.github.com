@@ -1,2 +1,2 @@
-# gustavo.github.com
+# pagina de Gustavo 
 mi pagina web
